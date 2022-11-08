@@ -1,8 +1,10 @@
 # Açaí.exe
+<img src=https://github.com/chulastem/Acai.exe-modelagem-de-software-/blob/main/A%C3%A7a%C3%AD%20Roxo%20Facebook%20Capa%20(1).png />
+
 O projeto busca desenvolver um software ficticio de um caixa/estoque focado em redes de sorveteria, onde o estoque é abatido automaticamente a cada venda realizada.
 A ideia é que o software seja simples e intuitivo buscando otimizar o tempo de todos os funcionário e melhorar o atendimento ao cliente.
 
-<img src=https://github.com/chulastem/Acai.exe-modelagem-de-software-/blob/main/WhatsApp%20Image%202022-11-07%20at%2019.24.37.jpeg width="1000" height="1000" />
+
 
 ## Requisitos funcionais:
 ```
