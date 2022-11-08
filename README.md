@@ -1,12 +1,11 @@
 # Açaí.exe
 <img src=https://github.com/chulastem/Acai.exe-modelagem-de-software-/blob/main/A%C3%A7a%C3%AD%20Roxo%20Facebook%20Capa%20(1).png />
 
-O projeto busca desenvolver um software ficticio de um caixa/estoque focado em redes de sorveteria, onde o estoque é abatido automaticamente a cada venda realizada.
-A ideia é que o software seja simples e intuitivo buscando otimizar o tempo de todos os funcionário e melhorar o atendimento ao cliente.
+## O projeto busca desenvolver um software ficticio de um caixa/estoque focado em redes de sorveteria, onde o estoque é abatido automaticamente a cada venda realizada. A ideia é que o software seja simples e intuitivo buscando otimizar o tempo de todos os funcionário e melhorar o atendimento ao cliente.
 
 
 
-## Requisitos funcionais:
+# Requisitos funcionais:
 ```
 RF001: O SISTEMA DEVERÁ CADASTRAR USUARIOS
 RF002: O SISTEMA DEVERÁ TER O CARDAPIO DOS PRODUTOS DISPÓNIVEIS A VENDA
@@ -24,7 +23,7 @@ RF011: O SISTEMA DEVE SOMAR E TOTALIZAR TODAS A VENDAS
 RF012: APÓS O HORÁRIO DE FUNCIONAMENTO DEVERÁ SER EMITIDO UM FATURAMENTO DIÁRIO
 
 ```
-## Requisitos NÃO funcionais:
+# Requisitos NÃO funcionais:
 ```
 RN001: O SISTEMA DEVERÁ REPASSAR O PEDIDO AO COZINHEIRO EM NO MAXIMO 30 SEGUNDOS
 RN002: OS DADOS DEVERÃO SER ARMAZENADOS NO SQL SERVER
