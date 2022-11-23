@@ -61,9 +61,13 @@ RN004: o SISTEMA DEVE TER AS MESMAS CORES DA EMPRESA
 
 # Diagrama de classe
 
+<img src=https://github.com/chulastem/Acai.exe-modelagem-de-software-/blob/main/images/Diagrama%20de%20classe%20.png/>
 
 # Diagrama de atividade
 
+### Emissão de pedido
+
+<img src=https://github.com/chulastem/Acai.exe-modelagem-de-software-/blob/main/images/Diagrama%20de%20atividade.png/>
 
 # Diagrama de sequencia
 
