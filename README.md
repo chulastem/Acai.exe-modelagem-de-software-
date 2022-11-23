@@ -56,3 +56,5 @@ RN004: o SISTEMA DEVE TER AS MESMAS CORES DA EMPRESA
 ```
 
 # Diagrama Caso de uso:
+
+
