@@ -57,4 +57,5 @@ RN004: o SISTEMA DEVE TER AS MESMAS CORES DA EMPRESA
 
 # Diagrama Caso de uso:
 
+<img src=https://github.com/chulastem/Acai.exe-modelagem-de-software-/blob/main/images/Diagrama%20em%20branco%20(2).png/>
 
