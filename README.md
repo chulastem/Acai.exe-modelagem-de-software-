@@ -70,6 +70,7 @@ RN004: o SISTEMA DEVE TER AS MESMAS CORES DA EMPRESA
 <img src=https://github.com/chulastem/Acai.exe-modelagem-de-software-/blob/main/images/Diagrama%20de%20atividade.png/>
 
 # Diagrama de sequencia
-
+```
+```
 
 # Diagrama Banco de dados
